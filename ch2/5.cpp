@@ -1,5 +1,5 @@
 #include <iostream>
-float my_fun(float);
+//float my_fun(float);
 
 //int main()
 //{
@@ -12,7 +12,7 @@ float my_fun(float);
 //	return 0;
 //}
 
-float my_fun(float t)
-{
-	return 1.8 * t + 32.0;
-}
+//float my_fun(float t)
+//{
+//	return 1.8 * t + 32.0;
+//}
